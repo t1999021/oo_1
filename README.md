@@ -12,7 +12,7 @@
 * 學號3 姓名3
 * 學號4 姓名4
 
-###### `My first Assignment`
+###### `My first Assignment
 
 ```
 * 學號1 姓名1
