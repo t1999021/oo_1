@@ -35,4 +35,4 @@
 
 ![nkust](182513897.png "高科大LOGO")
 
-![EggPlantEgg](https://www.youtube.com/watch?v=caITRQWpBHs "茄子蛋")
+[EggPlantEgg](https://www.youtube.com/watch?v=caITRQWpBHs "茄子蛋")
