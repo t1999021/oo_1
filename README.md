@@ -30,4 +30,9 @@
 |1 | 2 | 3 |
 
 :smile:
+
 :cry:
+
+![nkust](182513897.png "高科大LOGO")
+
+![EggPlantEgg](https://www.youtube.com/watch?v=caITRQWpBHs "茄子蛋")
